@@ -1,0 +1,28 @@
+name: Travis Street said...
+favicon: null
+layout_spectrum: 0.7542269078548998
+typography_spectrum: 0.20233224402181804
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4145892318338156
+  lightness: 0.7004869864322245
+  saturation: 0.08218396408483386
+  rhythmicContrast: 0.9405946095939726
+purpose: []
