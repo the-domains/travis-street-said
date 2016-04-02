@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Travis Street said...]]></title>
-        <description><![CDATA[Travis Street said...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Poets and Freedom]]></title>
+        <description><![CDATA[Poets and Freedom]]></description>
+        <link>https://thegrid.ai/travis-street-said/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 02:37:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 01:11:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/travis-street-said/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Notable Notes]]></title>
+            <description><![CDATA[<article><h1>Notable Notes</h1><p>``Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect.''</p></article>]]></description>
+            <link>https://thegrid.ai/travis-street-said/nicolaus-of-cusas-on-the-vision-of-god-and-the-concept-of-n/index.html</link>
+            <guid isPermaLink="false">806d12df-7de4-447c-8831-eccd58a01f04</guid>
+            <pubDate>Sat, 02 Apr 2016 01:11:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Travis Street]]></title>
             <description><![CDATA[<article><h1>Travis Street</h1><p>Do not underestimate where you are and how the miracle of life brought you here. God, the Universe, sex from Love...however you may like to put it. That is all I would like from you. Because history proves it. - Travis Street, Circa 2/23/2016.</p></article>]]></description>
-            <link>undefinedtravis-street/index.html</link>
+            <link>https://thegrid.ai/travis-street-said/travis-street/index.html</link>
             <guid isPermaLink="false">182c813a-e6cd-4cca-b4df-ca842d6eb0f7</guid>
             <pubDate>Wed, 24 Feb 2016 02:36:53 GMT</pubDate>
         </item>
