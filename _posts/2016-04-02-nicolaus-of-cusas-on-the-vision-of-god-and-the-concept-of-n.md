@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "``My being is such that it can make itself more and more capable of receiving...grace and goodness. And this power, which I have from...(the infinite)... by virtue of which I possess a living image... omnipotent power... (manifest in)... free will.''"
-datePublished: '2016-04-05T21:11:09.304Z'
-dateModified: '2016-04-05T21:11:01.354Z'
+datePublished: '2016-04-05T21:15:10.178Z'
+dateModified: '2016-04-05T21:11:19.262Z'
 title: Negentropy over Negative Entropy. Boltzmann and 2nd Law of Thermodynamics is wrong.
 author: []
 sourcePath: _posts/2016-04-02-nicolaus-of-cusas-on-the-vision-of-god-and-the-concept-of-n.md
@@ -167,6 +167,7 @@ _In On Beryllus_, Cusanus gives the following figurative representation of this 
 > And it is in the other angles, namely, in that of life and of being. Likewise the angle of life is in that of being. And what intermediate differences there are between being and life and understanding and what can be unfolded, you will see likewise in the enigma'' (pp. 311-12).
 
 ## The Triune God
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8f78f2-9c92-4444-af78-1b94d87f0202.jpg)
 
 ## 
 
@@ -212,16 +213,9 @@ Similarly, in _On the Vision of God_, Cusanus writes:
 > O Lord, I see that Your Spirit cannot be lacking to any spirit, because it is the Spirit of spirits and the Motion of motions; and it fills the whole world. But whatever things do not have an intellectual spirit Your Spirit governs by means of the intellectual nature that moves the heavens...'' (p. 263).
 
 Thus, according to Cusanus, not only does the individual human soul not cease, but also neither does the world as a whole nor the substance of sensitive, vegetative, or elemental souls perish.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8f78f2-9c92-4444-af78-1b94d87f0202.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8478e3cb-9898-41b3-af93-524b29ef3ccb.jpg)
 
-## Man's Free Will
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b6573c-0899-4b76-ab4d-b97ed592671b.jpg)
-
-## What distinguishes man from an animal, is that the latter lack the free power that is in us. In _On the Game of Spheres, Cusanus writes:_Nature can never impose necessity upon our spirit, but the spirit can impose necessity upon nature'' (p. 73).As a result of his free spirit, man can invent new modes of social reproductive behavior, whereas a beast must follow the impetus of nature. According to Cusanus:Therefore they are impelled to do those things that they do by their nature so that all the members of each species hunt and make nests in the same way'' (p. 71).It is in connection with Cusanus' conception of man as having the free will necessary to invent something new that we see most clearly a reflection of LaRouche's concept of negentropy as characterized by an increase of the energy of the system and at the same time an increase in the ratio of free energy to energy of the system. Although the unfolding of the universe occurs negentropically in that all things, as Cusanus says, \`\`desire to exist in the best manner in which the condition of each thing's nature permits this,'' man, since he has free will, can increase his dominion over nature by choosing to increase his conformity to God.As Cusanus writes in _On the Vision of God_:I must see to it that, as best I can, I be made more and more capable of receiving You. But I know that the capability which conduces to union is only likeness.... Therefore, if by every possible means I make myself like unto Your goodness, then according to my degree of likeness thereto I will be capable of receiving truth.... My being is such that it can make itself more and more capable of receiving Your grace and goodness. And this power, which I have from You and by virtue of which I possess a living image of Your omnipotent power, is free will. Through free will I can either increase or decrease my capability for receiving Your grace'' (p. 127).Man, therefore, is not only _imago Dei_, but _capax Dei_. He has the capacity to become increasingly Godlike or Deiform. In _On the Vision of God_, Cusanus argues that man can attain union with God. In imitation of Christ, man can become an adopted son of God. To explicate this capacity in man Cusanus compares it to the capacity for successive increase in both mineral and sensible life. He writes thatthere is a single spirit of the source of gold. As a result of the influence of the sun or the heavens this spirit is more and more purified until at last it is fashioned into gold...'' (p. 257).Similarly "in man the sensible spirit ... under the influence of the heavens ... becomes successively increased--to the point where it is posited in perfect actuality'' (p. 257). Cusanus then writes that the intellect, which is not constrained by the influence of the heavens but is altogether free, if it subjects itself by faith to the influence of the Word of God,is perfected and grows and is made progessively more capable of receiving the Word and progressively more conformed, and similar to the Word. And this perfection, which comes in this way from the Word, from which the intellect has being, is not a corruptible perfection but is Godlike'' (p. 259).From this standpoint, it should be clear that entropy exists in the same way that evil exists. It has no positive being, and therefore only exists to the extent that man, through the misuse of his free will departs from the good. Therefore, rather than being a law of the universe, entropy is merely the evil consequence of man's own decision to decrease his capability of receiving the grace and goodness of God by refusing to bring his intellect into conformity with God's Word.In _On the Vision of God_, Cusanus concludes that Christ has taught only two things: faith and love.Through faith, the intellect approaches unto the Word; through love, it is united therewith. The closer the intellect approaches, the more it is increased in power; and the more it loves the Word, the more it is fashioned in the Word's light. But the Word of God is within the intellect, which need not search outside itself. For it will find the Word within, and it will be able to approach the Word by faith. And through prayer, the intellect will be able to obtain the capability of approaching more closely. For the Word will increase the intellect's faith by imparting its own light'' (p. 261).These are the ideas which gave rise to a Golden Renaissance in the arts and sciences in the fifteenth century, and which resulted in the most significant rate of increase in man's power over nature in human history. These are the ideas of God, man and nature which the prevailing culture of death in our society today is determined to expunge. And these are the ideas which we must master once again if we are to achieve the reverse paradigm shift necessary to prevent the continued rapid disintegration of civilization.The task before each and every one of us,as LaRouche writes in \`\`History as Science,' is to become \`\`wittingly imago Dei,' or,as Cusanus writes in _On the Vision of God_, to find the Word of God within our own intellects, to become self-moving in the image of God and thus to increase our _capax Dei_, so as to become more intelligent and loving instruments of the continued unfolding of God's negentropic purpose. As Cusanus writes in_On Learned Ignorance_, since God as the life of all rational spirits is their center,\`\`it is not the case that, with respect to location, He is seated on the circumference rather than at the center. And, therefore, He who is the \`Fount of life' for souls, as well as their goal, affirms that the Kingdom of Heaven is also within men'' (p. 145) (Luke 17:21).
-
 ## References
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d0457b-9ee0-4397-b5fe-250cf0a10902.jpg)
 
 1. Jasper Hopkins, _A Concise Introduction to the Philosophy of Nicholas of Cusa _(Minneapolis: University of Minnesota Press, 1978)  
 This book contains a translation of _On Actualized-Possibility_, referred to in the text as _On Actual-Potential_.
@@ -233,6 +227,8 @@ This volume contains a translation of _On the Vision of God_.
 6. _Leibniz Philosophical Writings_, ed. by G. H. R. Parkinson (London: J. M. Dent and Sons Ltd., 1973)
 7. _The Essential Augustine_, selected by Vernon J. Bourke (Indianapolis: Hackett Publishing Company, 1985)
 8. _The Complete Dialogues of Plato_, ed. by Edith Hamilton and Huntington Cairns (Princeton: Princeton University Press, 1980)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b6573c-0899-4b76-ab4d-b97ed592671b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d0457b-9ee0-4397-b5fe-250cf0a10902.jpg)
 
 [0]: https://en.wikipedia.org/wiki/Nicholas_of_Cusa
 [1]: https://books.google.com/books/about/The_Vision_of_God.html?id=7V9fSAa_joAC
