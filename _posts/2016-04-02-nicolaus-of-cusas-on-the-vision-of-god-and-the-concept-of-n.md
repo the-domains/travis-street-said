@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "``Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect.''"
-datePublished: '2016-04-02T17:32:04.701Z'
-dateModified: '2016-04-02T17:29:31.083Z'
-title: "Nicolaus of Cusa's On the Vision of God and the Concept of Negentropy"
+description: "``My being is such that it can make itself more and more capable of receiving...grace and goodness. And this power, which I have from...(the infinite)... by virtue of which I possess a living image... omnipotent power... (manifest in)... free will.''"
+datePublished: '2016-04-05T21:11:09.304Z'
+dateModified: '2016-04-05T21:11:01.354Z'
+title: Negentropy over Negative Entropy. Boltzmann and 2nd Law of Thermodynamics is wrong.
 author: []
 sourcePath: _posts/2016-04-02-nicolaus-of-cusas-on-the-vision-of-god-and-the-concept-of-n.md
 published: true
@@ -22,9 +22,9 @@ url: nicolaus-of-cusas-on-the-vision-of-god-and-the-concept-of-n/index.html
 _type: Article
 
 ---
-## Notable Notes
+# Negentropy over Negative Entropy. Boltzmann and 2nd Law of Thermodynamics is wrong.
 
-\`\`Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect.''
+> Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect.
 
 \`\`My being is such that it can make itself more and more capable of receiving...grace and goodness. And this power, which I have from...(the infinite)... by virtue of which I possess a living image... omnipotent power... (manifest in)... free will.''
 
@@ -85,17 +85,154 @@ In this discussion of the nut tree, Cusanus puts forward the idea that all creat
 
 _[On the Vision of God][8]_
 
-\`\`Since... (the infinite)... is the Absolute Form of all form-able forms... (this infinite) enfolds in ..(itself)... the forms of all things'' (p. 123). Since... (the infinite)... is the Absolute Being of all things,.. (it)... is present to each and every thing... (The infinite)... is not the universe, as a pantheist would argue, because... (it)... precedes the universe, which...(is)... created. (The infinite)... is \`\`all in all'', therefore, in such a way that...(it)... is nothing of everything. Thus, although... (the infinite)... is not a creature and therefore cannot be seen by the sensible eye,.. (it)... is nonetheless the invisible Cause and Essence of each and every creature, a concept which Cusanus locates as expressed by the [Apostle Paul][9] who wrote... ''(God) is before all things, and in Him all things hold together'' ([Col 1:17][10]), that God is \`\`all in all'' ([1 Cor 15:28][11]) and that \`\`God is not far from us, for we are in Him and we are moved'' ([Acts 17:27-28][12]).
+\`\`Since... (the infinite)... is the Absolute Form of all form-able forms... (this infinite) enfolds in ..(itself)... the forms of all things'' (p. 123). Since... (the infinite)... is the Absolute Being of all things,.. (it)... is present to each and every thing... (The infinite)... is not the universe, as a pantheist would argue, because... (it)... precedes the universe, which...(is)... created. (The infinite)... is \`\`all in all'', therefore, in such a way that...(it)... is nothing of everything. Thus, although... (the infinite)... is not a creature and therefore cannot be seen by the sensible eye,.. (it)... is nonetheless the invisible Cause and Essence of each and every creature, a concept which Cusanus locates as expressed by the [Apostle Paul][9] who wrote... ''(The infinite) is before all things, and in...(it) all things hold together'' ([Col 1:17][10]), that...(the infinite)... is \`\`all in all'' ([1 Cor 15:28][11]) and that \`\`(The infinite)... is not far from us, for we are in...(it)... and we are moved'' ([Acts 17:27-28][12]).
 
 The creature does not exist through itself, but rather derives its specific form from the Form which exists through itself. Therefore, if we wish to know the Nature of the creature, we must see the invisible in the visible, the cause in the effect, the truth and exemplar in the image.
 
-Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect. Because Aristotelian logic defines as its first principle the law of contradiction, it rejects as impossible the coincidence of opposites, such as the idea expressed by Cusanus in _[On Learned Ignorance][13]_that \`\`every created thing is, as it were, a finite infinity or a created god'' (p. 93), in contradistinction to God the Creator, Who is Absolute infinity and uncreated. But to arrive at a true understanding of the laws of the universe, and to enter Paradise, as Cusanus writes in_On the Vision of God_, one must vanquish the \`\`lofty rational spirit'' (p. 161) of Aristotelian logic, which guards the gate of the wall of Paradise.
+Those who argue that the universe is entropic, do so because, like Aristotle, they deny that man is capable of elevating his mind above inductive and deductive forms of discursive rationality to the level of creative intellect. Because Aristotelian logic defines as its first principle the law of contradiction, it rejects as impossible the coincidence of opposites, such as the idea expressed by Cusanus in _[On Learned Ignorance ][13]_that \`\`every created thing is, as it were, a finite infinity or a created god'' (p. 93), in contradistinction to God the Creator, Who is Absolute infinity and uncreated. But to arrive at a true understanding of the laws of the universe, and to enter Paradise, as Cusanus writes in _On the Vision of God_, one must vanquish the \`\`lofty rational spirit'' (p. 161) of Aristotelian logic, which guards the gate of the wall of Paradise.
 
-Today we hear a lot about a concept of self-realization, according to which man divorced from God reduces himself to a bestial state. However, Cusanus argues that for man to truly realize his potential, he must rise to the level of being an adopted son of God. Since man is created in the image of God, he can only be his true self to the extent he conforms to his own Cause and Exemplar. When God says to Cusanus: \`\`Be your own and I will be yours'' (p. 147), Cusanus understands that to mean that we are our own true selves, when the senses serve reason and we are in harmony with the Word.
+Today we hear a lot about a concept of self-realization, according to which man divorced from...(the infinite)... reduces himself to a bestial state. However, Cusanus argues that for man to truly realize his potential, he must rise to the level of being an adopted son of God. Since man is created in the image of God, he can only be his true self to the extent he conforms to his own Cause and Exemplar. When God says to Cusanus: \`\`Be your own and I will be yours'' (p. 147), Cusanus understands that to mean that we are our own true selves, when the senses serve reason and we are in harmony with the Word.
 
-When we rise to the level of creative intellect, then we are capable of seeing that the universe is not entropic, but rather unfolds negentropically, precisely because it is enfolded in God, Who is eternal.
+When we rise to the level of creative intellect, then we are capable of seeing that the universe is not entropic, but rather unfolds negentropically, precisely because it is enfolded in... (the infinite, that is)... eternal.
 
 One of the major obstacles to conceptualizing how God could have created the universe out of nothing in eternity which precedes time and how at the same time it can be said that the universe evolves in time, is the tendency to view eternity from the standpoint of succession. But as Cusanus points out: \`\`Now, posterior to most simple eternity no thing can possibly be made. Therefore, infinite duration, which is eternity itself, encompasses all succession. Therefore, everything which appears to us in a succession is not at all posterior to Your Concept, which is eternity. For Your one Concept, which is also Your Word, enfolds each and everything ... all things exist because You conceive them. Now, You conceive in eternity. But in eternity succession is--without succession--eternity itself, i.e., Your Word itself, O Lord God. Any given thing that appears to us in time was not conceived by You before it existed. For in eternity, in which You conceive, all temporal succession coincides in one and the same now of eternity. Therefore, where the future and the past coincide with the present, nothing is past or future'' (p. 167).
+
+## God's Clock
+
+In 1715, Gottfried Wilhelm Leibniz derided the entropic concept of the universe advocated by Sir Isaac Newton and his follower Samuel Clarke by pointing out that, \`\`According to them, God has to wind up his watch from time to time. Otherwise it would cease to go. He lacked sufficient foresight to make it a perpetual motion'' (p. 205).
+
+In _On the Vision of God_, Cusanus points out that in God's Clock, succession is present without there being succession in the Word, or Concept, that in this most simple Concept are enfolded all movements we experience as in succession, that whatever occurs successively is the unfolding of the Concept, so that the Concept gives being to each successive thing and that the reason each event was nothing before it occurred is that it was not conceived before it existed. Cusanus then concludes:
+
+> So let the concept of a clock be, as it were, eternity itself. Then, in the clock, movement is succession. Therefore, eternity enfolds and unfolds succession, for the Concept of a clock--a Concept which is eternity--both enfolds and unfolds all things'' (pp. 169-171).
+
+In _On Actual-Potential_, Cusanus uses the example of a boy playing with a top to show how... (infinite being)... is all things at once and how the whole of eternity is within the present moment (Figure 1) 
+> 
+> Let us describe a circle, _bc_, which is being rotated about a point _a _as would the upper circle of a top; and let there be another fixed circle, _de_: Is it not true that the faster the movable circle is rotated, the less it seems to be moved? Suppose, then, that the possibility-to-be-moved is actual in it; i.e., suppose that the top is actually being moved as fast as possible. In that case, would it not be completely motionless? Since the motion would be infinite velocity, points _b _and _c _would be temporally present together at point _d _of the fixed circle--without its being the case that point _b _was temporally prior to point_c. (For if __b were temporally prior to __c, the motion would not be maximal and infinite.) _
+
+> _And yet, there would not be motion but would be rest, since at no time would points __b and __c move away from the fixed point __d. Hence the aximal motion would at the same time also be minimal motion and no motion. In that case, just as the opposite points __b_
+> 
+> and _c _would be always at point _d_, would they not always also be at the opposite point from _d_, namely, at _e_? Would this not likewise hold true for all the intermediate points of the circle _bc_? Therefore, the whole of the circle would at every instant be simultaneously present at point _d_. And the whole of the circle would be not only at _d _and _e _but also at every other point of the circle _de_. Let it suffice, then, that by means of this image and symbolically we are somehow able to see that (if the circle _bc _were illustrative of eternity and circle _de _were illustrative of time) the following propositions are not self-contradictory; that eternity as a whole is at once present at every point of time and that God as the beginning and the End is at once and as a whole present in all things'' (pp. 83-84).
+
+## Cusa on Creation
+
+Having developed the above concepts I would now like to quote from a number of Cusanus's other writings, in which he is more explicit in regard to his conception of creation as the unfolding of that which is enfolded in the Word.
+
+## 
+
+In_On Learned Ignorance_, Cusanus writes:
+> 
+> We see that by the gift of God there is present in all things a natural desire to exist in the best manner in which the condition of each thing's nature permits this'' (p. 49). In God as in an end all natural movements find rest; and in Him as in infinite actuality all possibility is realized (p. 79). The same holds true regarding the earth, the sun, and other things: unless they had been latently present in matter--present in terms of a certain contracted possibility--there would have been no more reason why they would have been brought forth into actuality than not (p. 106).
+> 
+>   
+> The motion of the planets is an unrolling of the first motion; and the motion of temporal and terrestrial things is the unrolling of the motion of the planets. Certain causes of coming events are latent in terrestrial things, as the produce is latent in the seed. Hence these thinkers said that the things enfolded in the world-soul as in a ball are unfolded and extended through such motion (p. 112). Matter has from its aptitude for receiving form--a certain appetite.... Form desires to exist actually but cannot exist absolutely, since it is not its own being and it is not God.... while possibility ascends towards actual existence, form descends, so that it lifts, and perfects, and terminates possibility'' (p. 112).
+> 
+>   
+> The highest species of the one genus coincides with the lowest species of the immediately higher genus, so that there is one continuous and perfect universe'' (p. 126).
+> 
+>   
+> Therefore, no species descends to the point that it is the minimum species of some genus, for before it reaches the minimum it is changed into another species; and a similar thing holds true of the would-be maximum species, which is changed into another species before it becomes a maximum species. When in the genus animal the human species endeavors to reach a higher gradation among perceptible things, it is caught up into a mingling with the intellectual nature; nevertheless, the lower part, in accordance with which man is called an animal, prevails.... Accordingly, it is evident that species are like a number series which progresses sequentially.... Whether we number upwards or downwards we take our beginning from Absolute Oneness which is...(infinity)--i.e., from the Beginning of all things. Hence, species are as numbers that come together from two opposite directions'' (p. 127).
+
+In _On Conjectures_, he writes:
+> 
+> Therefore, the universality of the elements ascends to the most specific as the point to the body, by means of syllables and words, as potentiality to actuality.... For the individual is, as it were, the end of the flux of the elements and the beginning of their reflux'' (p. 103).
+> 
+>   
+> Corporeality proceeds upwards into spirituality. Because the descent of the spirit is the ascent of the body, you must combine both...'' (p. 116).
+> 
+>   
+> Hence the vegetative spirit conceals in its darkness the intellectual; and certain signs of it appear in the branches as support, in the leaves and in the skin as protection of the fruit. Nevertheless, we experience more intellectual signs among animals, where the spirit is clearer; for we experience the signs of intellectual vigor more clearly and nearly in the senses, still more in the imagination and more amply in rationality'' (p. 117).
+> 
+>   
+> The corporeal nature climbs upward stepwise to the sensitive and indeed such that its ultimate ordering nearly coincides with the sensitive'' (p. 125).
+
+In _On Genesis_:
+> 
+> Moses also expresses this elegantly, when he says: \`God formed man of the dust of the earth and breathed into his face the breath of life and he became a living soul,' so that he expresses in this way the earthly man, who is also called Adam, the earthly; according to the extrinsic as body, which is summoned from the dust of the earth or the nature of the elements, and according to the intrinsic as the vital power, which is from the breathing in of the divine spirit or the participation in the divine power, so that thus from this moment the living man is one true man'' (p. 227).
+
+In _On the Game of Spheres_:
+> 
+> Elemental power is hidden in chaos and sensitive power is hidden in vegetative power, and in that vegetative power the imaginative power, in the imaginative power, the logical or rational, in the rational the intelligential, in the intelligential, the intellectible, and in the intellectible the Power of powers'' (p. 111).
+
+As is clear from the above, Cusanus conceives of the unfolding of species enfolded in God's Word as a transfinite number series. Since God is both the center and the circumference of the universe, this number series can be visualized as both a descent and an ascent. In_On the Vision of God, Cusanus points out by comparison that he who counts unfolds and enfolds, alike: he unfolds the power of oneness, and he enfolds number in oneness'' (p. 171)._
+
+_  
+_
+
+_In On Beryllus_, Cusanus gives the following figurative representation of this process (Figure 2):  
+
+  
+> Let the line _AB _be a similitude of the truth and stand between the first truth and nothing. Let _B _be the end of the similitude in respect to the nothing. _B _should be folded over _C _in an enfolding motion toward _A_, and thus represent the motion, with which God summons from non-existence into existence. The line _AB _is fixed, so long as it egresses from the origin as _AC _does, and movable, so long as it is moved enfoldingly over _C _toward the origin. In this motion, _CB _with _CA _causes various angles, and _CB _unfolds by means of this motion different similitudes. First it causes in a less formal similitude an obtuse angle, which is its being; then in a more formal similitude an angle, which is its life; and then in the most formal and most acute angle it causes its understanding. The acute angle participates more in the activity of the angle and in its simplicity and is more similar to the first Origin.
+> 
+>   
+> And it is in the other angles, namely, in that of life and of being. Likewise the angle of life is in that of being. And what intermediate differences there are between being and life and understanding and what can be unfolded, you will see likewise in the enigma'' (pp. 311-12).
+
+## The Triune God
+
+## 
+
+r Cusanus, this evolutionary process in the universe which proceeds from the elemental to the vegetative to living beings, culminates in Man, who is both_imago Dei_
+
+(the image of God) and a microcosm, who both mirrors and acts upon the macrocosm.
+
+In order to understand in what way man is the image of God, we must first consider Cusanus's conception of the Triune God. Although Cusanus develops the concept of the Triune God in many ways in his writings, perhaps the most illustrative for our purposes is the concept of the Trinity as an expression of the concept of God as self-moving, which we find in Plato's dialogue, the_Phaedrus_. In the_Phaedrus_, Plato states:
+> 
+> \`\`The self-mover, then, is the principle of motion, and it is as impossible that it should be destroyed as that it should come into being; were it otherwise, the whole universe ... would collapse.... And now that we have seen that that which is moved by itself is immortal, we shall feel no scruple in affirming that precisely that is the essence and definition of soul, to wit, self-motion'' (p. 493).
+
+In _On the Vision of God_, Cusanus develops this concept of self-movement in respect to the Triune God as follows:
+> 
+> And the Union of You and your Concept is an activity and a working that arises, wherein is present the activity and unfolding of all things. Therefore, just as from You who are God who loves there is begotten God who is lovable (this begottenness is a conceiving), so from You who are God who loves and from the lovable Concept begotten from You there proceeds the Activity of You and of Your Concept. And this Activity is a uniting Union--is God who unites You and your Concept (just as the act of loving unites in love the one who loves and that which is lovable. And this Union is called _spirit_. For spirit is as motion, which proceeds from a mover and the movable. Hence, motion is the unfolding of the mover's concept. Therefore, all things are unfolded in You who are God the Holy Spirit, even as they are conceived in You who are God the Son'' (p. 221).
+
+In On the Game of Spheres, Cusanus emphasizes that man is in the image of God, not in respect to his bodily form, but in respect to his creative intellect, which in the image of God is self-moving. In examining how the soul operates when it invents something new such as a game, Cusanus writes:
+> 
+> I thought to invent a game of knowledge. I considered how it should be done. Next I decided to make it as you see. Cogitation, consideration and determination are powers of our souls...'' (p. 69).
+> 
+>   
+> When I think, consider, and determine, what is happening except that the rational spirit, which is the thinking, considering and determining power, is moving itself? And when I seek the definition of the soul--what the soul is--do I not think and consider? And in this I find that the soul is self-moving in a circular motion because its motion turns back upon itself. For when I think about thinking, the motion is circular and self-moving.... Thinking generates consideration, and determination proceeds from them. They are but one living motion moving itself perfectly'' (p. 71).
+
+Cusanus further argues that that which is self-moving does not cease. God who is self-moving is eternal. That which he has created, which is self-moving is perpetual. Thus Cusanus writes:
+> 
+> Although the motion that gives life to the animal ceases with the declining health of the body, nevertheless the intellectual motion of the human soul, which exists and functions without the body, does not cease. For this reason that motion, which intellectually moves itself, is self-subsistent and substantial. That motion which is not self-moving is an accident, but that motion which is self-moving is a substance'' (p. 65).
+
+Therefore, what dies is not the substance of man, but rather only that which is accidental to his substance.
+
+Cusanus further maintains that the macrocosm, i.e. the universe as a whole, is self-moving and therefore perpetual. In _On the Hunt for Wisdom_, he argues that God, Who is eternal, creates the potential-to-become of all actual creatures out of nothing and that this potential-to-become of the universe is perpetual. Thus he says:
+> 
+> The whole world can never cease'' (p. 479).
+
+In _On the Game of Spheres_, he further argues that
+> 
+> also perhaps that substance which is called the sensitive or vegetative soul does not perish through the death of an animal or the withering of a tree, although it does not operate as before'' (p. 73).
+
+The reason that he believes that this is the case is because
+> 
+> the world soul is the sensitive soul in sensitive things, the vegetative soul in vegetative things, and the elemental soul in elemental things'' (p. 75).
+
+Similarly, in _On the Vision of God_, Cusanus writes:
+> 
+> O Lord, I see that Your Spirit cannot be lacking to any spirit, because it is the Spirit of spirits and the Motion of motions; and it fills the whole world. But whatever things do not have an intellectual spirit Your Spirit governs by means of the intellectual nature that moves the heavens...'' (p. 263).
+
+Thus, according to Cusanus, not only does the individual human soul not cease, but also neither does the world as a whole nor the substance of sensitive, vegetative, or elemental souls perish.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8f78f2-9c92-4444-af78-1b94d87f0202.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8478e3cb-9898-41b3-af93-524b29ef3ccb.jpg)
+
+## Man's Free Will
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8b6573c-0899-4b76-ab4d-b97ed592671b.jpg)
+
+## What distinguishes man from an animal, is that the latter lack the free power that is in us. In _On the Game of Spheres, Cusanus writes:_Nature can never impose necessity upon our spirit, but the spirit can impose necessity upon nature'' (p. 73).As a result of his free spirit, man can invent new modes of social reproductive behavior, whereas a beast must follow the impetus of nature. According to Cusanus:Therefore they are impelled to do those things that they do by their nature so that all the members of each species hunt and make nests in the same way'' (p. 71).It is in connection with Cusanus' conception of man as having the free will necessary to invent something new that we see most clearly a reflection of LaRouche's concept of negentropy as characterized by an increase of the energy of the system and at the same time an increase in the ratio of free energy to energy of the system. Although the unfolding of the universe occurs negentropically in that all things, as Cusanus says, \`\`desire to exist in the best manner in which the condition of each thing's nature permits this,'' man, since he has free will, can increase his dominion over nature by choosing to increase his conformity to God.As Cusanus writes in _On the Vision of God_:I must see to it that, as best I can, I be made more and more capable of receiving You. But I know that the capability which conduces to union is only likeness.... Therefore, if by every possible means I make myself like unto Your goodness, then according to my degree of likeness thereto I will be capable of receiving truth.... My being is such that it can make itself more and more capable of receiving Your grace and goodness. And this power, which I have from You and by virtue of which I possess a living image of Your omnipotent power, is free will. Through free will I can either increase or decrease my capability for receiving Your grace'' (p. 127).Man, therefore, is not only _imago Dei_, but _capax Dei_. He has the capacity to become increasingly Godlike or Deiform. In _On the Vision of God_, Cusanus argues that man can attain union with God. In imitation of Christ, man can become an adopted son of God. To explicate this capacity in man Cusanus compares it to the capacity for successive increase in both mineral and sensible life. He writes thatthere is a single spirit of the source of gold. As a result of the influence of the sun or the heavens this spirit is more and more purified until at last it is fashioned into gold...'' (p. 257).Similarly "in man the sensible spirit ... under the influence of the heavens ... becomes successively increased--to the point where it is posited in perfect actuality'' (p. 257). Cusanus then writes that the intellect, which is not constrained by the influence of the heavens but is altogether free, if it subjects itself by faith to the influence of the Word of God,is perfected and grows and is made progessively more capable of receiving the Word and progressively more conformed, and similar to the Word. And this perfection, which comes in this way from the Word, from which the intellect has being, is not a corruptible perfection but is Godlike'' (p. 259).From this standpoint, it should be clear that entropy exists in the same way that evil exists. It has no positive being, and therefore only exists to the extent that man, through the misuse of his free will departs from the good. Therefore, rather than being a law of the universe, entropy is merely the evil consequence of man's own decision to decrease his capability of receiving the grace and goodness of God by refusing to bring his intellect into conformity with God's Word.In _On the Vision of God_, Cusanus concludes that Christ has taught only two things: faith and love.Through faith, the intellect approaches unto the Word; through love, it is united therewith. The closer the intellect approaches, the more it is increased in power; and the more it loves the Word, the more it is fashioned in the Word's light. But the Word of God is within the intellect, which need not search outside itself. For it will find the Word within, and it will be able to approach the Word by faith. And through prayer, the intellect will be able to obtain the capability of approaching more closely. For the Word will increase the intellect's faith by imparting its own light'' (p. 261).These are the ideas which gave rise to a Golden Renaissance in the arts and sciences in the fifteenth century, and which resulted in the most significant rate of increase in man's power over nature in human history. These are the ideas of God, man and nature which the prevailing culture of death in our society today is determined to expunge. And these are the ideas which we must master once again if we are to achieve the reverse paradigm shift necessary to prevent the continued rapid disintegration of civilization.The task before each and every one of us,as LaRouche writes in \`\`History as Science,' is to become \`\`wittingly imago Dei,' or,as Cusanus writes in _On the Vision of God_, to find the Word of God within our own intellects, to become self-moving in the image of God and thus to increase our _capax Dei_, so as to become more intelligent and loving instruments of the continued unfolding of God's negentropic purpose. As Cusanus writes in_On Learned Ignorance_, since God as the life of all rational spirits is their center,\`\`it is not the case that, with respect to location, He is seated on the circumference rather than at the center. And, therefore, He who is the \`Fount of life' for souls, as well as their goal, affirms that the Kingdom of Heaven is also within men'' (p. 145) (Luke 17:21).
+
+## References
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0d0457b-9ee0-4397-b5fe-250cf0a10902.jpg)
+
+1. Jasper Hopkins, _A Concise Introduction to the Philosophy of Nicholas of Cusa _(Minneapolis: University of Minnesota Press, 1978)  
+This book contains a translation of _On Actualized-Possibility_, referred to in the text as _On Actual-Potential_.
+2. Jasper Hopkins, _Nicholas of Cusa on Learned Ignorance _(Minneapolis: The Arthur J. Banning Press, 1981)
+3. Jasper Hopkins,_Nicholas of Cusa's Dialectical Mysticism _(Minneapolis: The Arthur J. Banning Press, 1985)  
+This volume contains a translation of _On the Vision of God_.
+4. Pauline Moffitt Watts, _On the Game of Spheres _(New York: Abaris Books, 1986)
+5. William F. Wertz, Jr., _[Toward a New Council of Florence][14]_(Washington, D.C.: Schiller Institute, Inc. 1993)
+6. _Leibniz Philosophical Writings_, ed. by G. H. R. Parkinson (London: J. M. Dent and Sons Ltd., 1973)
+7. _The Essential Augustine_, selected by Vernon J. Bourke (Indianapolis: Hackett Publishing Company, 1985)
+8. _The Complete Dialogues of Plato_, ed. by Edith Hamilton and Huntington Cairns (Princeton: Princeton University Press, 1980)
 
 [0]: https://en.wikipedia.org/wiki/Nicholas_of_Cusa
 [1]: https://books.google.com/books/about/The_Vision_of_God.html?id=7V9fSAa_joAC
@@ -111,3 +248,4 @@ One of the major obstacles to conceptualizing how God could have created the uni
 [11]: http://biblehub.com/1_corinthians/15-28.htm
 [12]: http://biblehub.com/context/acts/17-27.htm
 [13]: https://en.wikipedia.org/wiki/De_Docta_Ignorantia
+[14]: http://american_almanac.tripod.com/sources.htm#Cusa
