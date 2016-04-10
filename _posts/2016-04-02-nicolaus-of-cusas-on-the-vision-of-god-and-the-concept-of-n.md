@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "``My being is such that it can make itself more and more capable of receiving...grace and goodness. And this power, which I have from...(the infinite)... by virtue of which I possess a living image... omnipotent power... (manifest in)... free will.''"
-datePublished: '2016-04-05T22:48:23.209Z'
-dateModified: '2016-04-05T22:48:21.141Z'
+datePublished: '2016-04-10T20:28:24.543Z'
+dateModified: '2016-04-05T22:48:59.293Z'
 title: Negentropy over Negative Entropy. Boltzmann and 2nd Law of Thermodynamics is wrong.
 author: []
 sourcePath: _posts/2016-04-02-nicolaus-of-cusas-on-the-vision-of-god-and-the-concept-of-n.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: negentropy-over-negative-entropy-boltzmann-and-2nd-law-of-t/index.html
+_type: Article
 
 ---
 # Negentropy over Negative Entropy. Boltzmann and 2nd Law of Thermodynamics is wrong.
